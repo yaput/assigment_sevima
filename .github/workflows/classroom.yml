@@ -27,7 +27,7 @@ jobs:
               { 
                 "command": "appendData", 
                 "args": { 
-                  "worksheetTitle": "grades",
+                  "worksheetTitle": "raw",
                   "minCol": 1, 
                   "data": [[
                     "${{ github.actor }}", 
